@@ -52,7 +52,7 @@
 				</h1>
 			</div>
 		</div>
-		<div class="container-fluid back-img con-hom	"></div>
+		<div class="container-fluid back-img con-hom" ></div>
 	</div>
 	<%@ include file="components/footer.jsp"%>
 </body>
